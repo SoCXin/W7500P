@@ -1,0 +1,284 @@
+Dependencies for Project 'app', Target 'Target 1': (DO NOT MODIFY !)
+F (..\User\main.c)(0x56CAAA6B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\main.o --omf_browse ..\output\main.crf --depend ..\output\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\User\ip_config.h)(0x56CAAA42)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\Applications\loopback.h)(0x563C4F57)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+I (..\User\time_delay.h)(0x56CA6458)
+I (..\User\bsp_uart.h)(0x56C68968)
+I (..\Applications\ntp.h)(0x55B5A006)
+F (..\User\retarget.c)(0x56CA6695)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\retarget.o --omf_browse ..\output\retarget.crf --depend ..\output\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\time.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x599ECD2E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599ECD2C)
+F (..\User\W7500x_conf.h)(0x554041E1)()
+F (..\User\bsp_uart.c)(0x56C68B76)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\bsp_uart.o --omf_browse ..\output\bsp_uart.crf --depend ..\output\bsp_uart.d)
+I (..\User\bsp_uart.h)(0x56C68968)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\Applications\loopback.h)(0x563C4F57)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+F (..\User\bsp_uart.h)(0x56C68968)()
+F (..\User\ip_config.c)(0x56CA675A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\ip_config.o --omf_browse ..\output\ip_config.crf --depend ..\output\ip_config.d)
+I (..\User\ip_config.h)(0x56CAAA42)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\Applications\loopback.h)(0x563C4F57)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+I (..\User\time_delay.h)(0x56CA6458)
+F (..\User\ip_config.h)(0x56CAAA42)()
+F (..\User\time_delay.c)(0x55F69A77)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\time_delay.o --omf_browse ..\output\time_delay.crf --depend ..\output\time_delay.d)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\Applications\loopback.h)(0x563C4F57)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+I (..\User\time_delay.h)(0x56CA6458)
+F (..\User\time_delay.h)(0x56CA6458)()
+F (..\User\W7500x_it.c)(0x563C4F57)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\w7500x_it.o --omf_browse ..\output\w7500x_it.crf --depend ..\output\w7500x_it.d)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+F (..\User\W7500x_it.h)(0x563C4F57)()
+F (..\W7500P_driver\W7500x_stdPeriph_Driver\src\W7500x_crg.c)(0x563C4F57)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\w7500x_crg.o --omf_browse ..\output\w7500x_crg.crf --depend ..\output\w7500x_crg.d)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+F (..\W7500P_driver\W7500x_stdPeriph_Driver\src\W7500x_gpio.c)(0x563C4F57)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\w7500x_gpio.o --omf_browse ..\output\w7500x_gpio.crf --depend ..\output\w7500x_gpio.d)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+F (..\W7500P_driver\W7500x_stdPeriph_Driver\src\W7500x_uart.c)(0x563C4F57)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\w7500x_uart.o --omf_browse ..\output\w7500x_uart.crf --depend ..\output\w7500x_uart.d)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+F (..\W7500P_driver\W7500x_stdPeriph_Driver\src\W7500x_wztoe.c)(0x563C4F57)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\w7500x_wztoe.o --omf_browse ..\output\w7500x_wztoe.crf --depend ..\output\w7500x_wztoe.d)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+F (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\system_W7500x.c)(0x563C4F57)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\system_w7500x.o --omf_browse ..\output\system_w7500x.crf --depend ..\output\system_w7500x.d)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+F (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)()
+F (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM\startup_W7500x.s)(0x563C4F57)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x--pd "__UVISION_VERSION SETA 527"--list ..\output\startup_w7500x.lst --xref -o ..\output\startup_w7500x.o --depend ..\output\startup_w7500x.d)
+F (..\ioLibary\Ethernet\socket.c)(0x563C4F57)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\socket.o --omf_browse ..\output\socket.crf --depend ..\output\socket.d)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\Applications\loopback.h)(0x563C4F57)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+F (..\ioLibary\Ethernet\socket.h)(0x563C4F57)()
+F (..\ioLibary\Ethernet\wizchip_conf.c)(0x56CA6445)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\wizchip_conf.o --omf_browse ..\output\wizchip_conf.crf --depend ..\output\wizchip_conf.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599ECD2C)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\Applications\loopback.h)(0x563C4F57)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+F (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)()
+F (..\ioLibary\MDIO\W7500x_miim.c)(0x56CA6A62)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\w7500x_miim.o --omf_browse ..\output\w7500x_miim.crf --depend ..\output\w7500x_miim.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\User\time_delay.h)(0x56CA6458)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\Applications\loopback.h)(0x563C4F57)
+F (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)()
+F (..\Applications\ntp.c)(0x56C4417E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\User -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include -I ..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Source\ARM -I ..\W7500P_driver\W7500x_stdPeriph_Driver\inc -I ..\W7500P_driver\W7500x_stdPeriph_Driver\src -I ..\ioLibary\Ethernet -I ..\ioLibary\MDIO -I ..\output -I ..\Applications -I ..\W7500P_driver\CMSIS\Include-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="527" -DCORTEX_M0 -DUSE_STDPERIPH_DRIVER-o ..\output\ntp.o --omf_browse ..\output\ntp.crf --depend ..\output\ntp.d)
+I (..\Applications\ntp.h)(0x55B5A006)
+I (..\ioLibary\Ethernet\wizchip_conf.h)(0x56CA6449)
+I (..\User\W7500x_conf.h)(0x554041E1)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_adc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cm0.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\W7500P_driver\CMSIS\Include\core_cmInstr.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Include\core_cmFunc.h)(0x563C4F57)
+I (..\W7500P_driver\CMSIS\Device\WIZnet\W7500\Include\system_W7500x.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_crg.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_gpio.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_exti.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_dualtimer.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_i2c.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_pwm.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_rng.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_ssp.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_uart.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wdt.h)(0x563C4F57)
+I (..\W7500P_driver\W7500x_stdPeriph_Driver\inc\W7500x_wztoe.h)(0x563C4F57)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\ioLibary\Ethernet\socket.h)(0x563C4F57)
+I (..\Applications\loopback.h)(0x563C4F57)
+I (..\ioLibary\MDIO\W7500x_miim.h)(0x563C4F57)
+I (..\User\ip_config.h)(0x56CAAA42)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
+F (..\Applications\ntp.h)(0x55B5A006)()
