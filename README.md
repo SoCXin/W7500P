@@ -14,8 +14,9 @@ W7500P SoC是 Cortex™-M0 based Ethernet MCU（include PHY）
 
 ### [收录资源](https://github.com/sochub/W7500P)
 
-* [参考文档](docs/)
-* [参考资源](src/)
+* [文档](docs/)
+* [资源](src/)
+* [工程](demo/)
 
 ### [关联资源](https://github.com/sochub)
 
@@ -23,6 +24,6 @@ W7500P SoC是 Cortex™-M0 based Ethernet MCU（include PHY）
 
 ### [选型建议](https://github.com/sochub)
 
-[W7500P](https://github.com/sochub/W7500P)的国产可替换方案为 WCH [CH563](https://github.com/sochub/CH563) ，更强大的性能及资源配置，价格相识，后者短板在于使用的构建资源相对较少，对开源平台的支持较少。
+[W7500P](https://github.com/sochub/W7500P)的国产可替换方案有WCH的[CH563](https://github.com/sochub/CH563)等，更强大的性能及资源配置，价格接近，后者短板在于使用的构建资源相对较少，对开源平台如platformIO的支持。
 
 ##  [SoC资源平台](http://www.qitas.cn)

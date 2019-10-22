@@ -1,5 +1,6 @@
 obj/
 list/
 BUILD/
-*.uvgui*
-*.uvopt*
+*.uvgu*
+*.uvop*
+*.bin
