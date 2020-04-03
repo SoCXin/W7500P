@@ -1,8 +1,11 @@
 ﻿# [W7500P](https://github.com/sochub/W7500P) 
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-#### 厂商：[Wiznet](https://github.com/sochub/WCH) 
-#### 架构：[Cortex M0](https://github.com/sochub/CM0) 
-#### 芯片定级：[Level](https://github.com/sochub/Level)
+
+[![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
+
+#### [Vendor](https://github.com/sochub/Vendor)：[Wiznet](https://www.wiznet.io)
+#### [Cortex](https://github.com/sochub/Cortex)：[Cortex M0](https://github.com/sochub/CM0) 
+#### [Level](https://github.com/sochub/Level)：48MHz 
+
 ### [W7500P简介](https://github.com/sochub/W7500P/wiki)
 
 W7500P SoC是 Cortex™-M0 based Ethernet MCU（include PHY）
@@ -16,7 +19,6 @@ W7500P SoC是 Cortex™-M0 based Ethernet MCU（include PHY）
 
 * [文档](docs/)
 * [资源](src/)
-* [工程](demo/)
 
 ### [关联资源](https://github.com/sochub)
 
